@@ -49,3 +49,16 @@ D:\c#\BIT5\PrivateGradeDeliverySystem\PrivateGradeDeliverySystem\obj\Debug\Priva
 D:\c#\BIT5\PrivateGradeDeliverySystem\PrivateGradeDeliverySystem\obj\Debug\PrivateG.2369396E.Up2Date
 D:\c#\BIT5\PrivateGradeDeliverySystem\PrivateGradeDeliverySystem\obj\Debug\PrivateGradeDeliverySystem.exe
 D:\c#\BIT5\PrivateGradeDeliverySystem\PrivateGradeDeliverySystem\obj\Debug\PrivateGradeDeliverySystem.pdb
+C:\Users\lenovo\Source\Repos\PrivateGradeDeliverySystem12\bin\Debug\PrivateGradeDeliverySystem.exe.config
+C:\Users\lenovo\Source\Repos\PrivateGradeDeliverySystem12\bin\Debug\PrivateGradeDeliverySystem.exe
+C:\Users\lenovo\Source\Repos\PrivateGradeDeliverySystem12\bin\Debug\PrivateGradeDeliverySystem.pdb
+C:\Users\lenovo\Source\Repos\PrivateGradeDeliverySystem12\obj\Debug\PrivateGradeDeliverySystem.csproj.AssemblyReference.cache
+C:\Users\lenovo\Source\Repos\PrivateGradeDeliverySystem12\obj\Debug\PrivateGradeDeliverySystem.Login.resources
+C:\Users\lenovo\Source\Repos\PrivateGradeDeliverySystem12\obj\Debug\PrivateGradeDeliverySystem.Properties.Resources.resources
+C:\Users\lenovo\Source\Repos\PrivateGradeDeliverySystem12\obj\Debug\PrivateGradeDeliverySystem.ServerName.resources
+C:\Users\lenovo\Source\Repos\PrivateGradeDeliverySystem12\obj\Debug\PrivateGradeDeliverySystem.csproj.GenerateResource.cache
+C:\Users\lenovo\Source\Repos\PrivateGradeDeliverySystem12\obj\Debug\PrivateGradeDeliverySystem.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Source\Repos\PrivateGradeDeliverySystem12\obj\Debug\PrivateG.2369396E.Up2Date
+C:\Users\lenovo\Source\Repos\PrivateGradeDeliverySystem12\obj\Debug\PrivateGradeDeliverySystem.exe
+C:\Users\lenovo\Source\Repos\PrivateGradeDeliverySystem12\obj\Debug\PrivateGradeDeliverySystem.pdb
+C:\Users\lenovo\source\repos\PrivateGradeDeliverySystem12\obj\Debug\PrivateGradeDeliverySystem.frmDean.resources

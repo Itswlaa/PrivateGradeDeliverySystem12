@@ -79,6 +79,9 @@
     <Compile Include="ServerName.Designer.cs">
       <DependentUpon>ServerName.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="frmDean.resx">
+      <DependentUpon>frmDean.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>

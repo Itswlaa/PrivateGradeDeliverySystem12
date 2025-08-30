@@ -72,7 +72,7 @@ namespace PrivateGradeDeliverySystem
                     string query = @"SELECT u.UserID 
                                      FROM Users u
                                      INNER JOIN Roles r ON u.RoleID = r.RoleID
-                                     WHERE u.Username = @username AND u.PasswordHash = @password AND r.RoleID = @roleId";
+                                     WHERE u.Username = @username AND u.Password = @password AND r.RoleID = @roleId";
 
                     using (SqlCommand cmd = new SqlCommand(query, conn))
                     {
@@ -118,8 +118,8 @@ namespace PrivateGradeDeliverySystem
                     frmStudentAffairs studentForm = new frmStudentAffairs();
                     studentForm.Show();
                     break;
-                case "dean":
-                    frmDean deanForm = new frmDean();
+                case "Dean":
+                    frmDean deanForm = new frmDean(db);
                     deanForm.Show();
                     break;
                 default:
